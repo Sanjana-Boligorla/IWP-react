@@ -4,7 +4,7 @@ import './style.css';
 
 import { faCcPaypal, faGooglePay, faApplePay, faAmazonPay, faPaypal } from '@fortawesome/free-brands-svg-icons';
 
-import './bootstrap.min.css';
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 import logo from './logo1.jpg';
 
