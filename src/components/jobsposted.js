@@ -5,14 +5,15 @@ import './style.css';
 import { faCcPaypal, faGooglePay, faApplePay, faAmazonPay, faPaypal } from '@fortawesome/free-brands-svg-icons';
 import Header from './header'
 import Footer from './footer'
-import './bootstrap.min.css';
+
 import icon1 from './icon1.jpg'
 import logo from './logo1.jpg';
 import icon2 from './icon2.jpg'
 import icon6 from './icon6.png'
 import icon5 from './icon5.png'
 import comp2 from './comp2.png'
-import { Carousel } from 'bootstrap';
+import 'bootstrap/dist/css/bootstrap.min.css';
+
 import car from './car3-Photoroom.png-Photoroom.png';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faUser } from '@fortawesome/free-solid-svg-icons';
