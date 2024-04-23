@@ -1,6 +1,7 @@
 // src/components/Home.js
 import React from 'react';
 import './style.css';
+import 'bootstrap/dist/css/bootstrap.min.css';
 import Jobs from './jobsposted'
 import { faCcPaypal, faGooglePay, faApplePay, faAmazonPay, faPaypal } from '@fortawesome/free-brands-svg-icons';
 import Header from './header'
