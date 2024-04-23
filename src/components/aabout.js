@@ -12,7 +12,7 @@ import icon2 from './icon2.jpg'
 import icon6 from './icon6.png'
 import icon5 from './icon5.png'
 import comp2 from './comp2.png'
-import { Carousel } from 'bootstrap';
+
 import car from './car3-Photoroom.png-Photoroom.png';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faUser } from '@fortawesome/free-solid-svg-icons';
