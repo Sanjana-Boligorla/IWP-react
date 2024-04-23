@@ -6,7 +6,7 @@ import Jobs from './jobsposted'
 import { faCcPaypal, faGooglePay, faApplePay, faAmazonPay, faPaypal } from '@fortawesome/free-brands-svg-icons';
 import Header from './header'
 import Footer from './footer'
-import './bootstrap.min.css';
+
 import icon1 from './icon1.jpg'
 import logo from './logo1.jpg';
 import icon2 from './icon2.jpg'
