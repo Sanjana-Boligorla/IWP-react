@@ -56,7 +56,7 @@ const LoginPage = () => {
                         <h1>Hire the Elite to build something Extraordinary!</h1>
                     <p>Register with your personal details</p>
                         <button className="hidden" onClick={toggleForm}>Sign Up</button>
-                        <p>Wanna hire the best talents?<br /><br /><a href="iwp.html" style={{ textDecoration: 'none', color: 'white' }}>Click here</a></p>
+                        <p>Looking for Job Opportunities?<br /><br /><a href="/login" style={{ textDecoration: 'none', color: 'white' }}>Click here</a></p>
                     </div>
                 </div>
             </div>
