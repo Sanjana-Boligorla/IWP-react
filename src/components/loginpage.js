@@ -1,3 +1,4 @@
+
 import React, { useState } from 'react';
 import './style.css';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
@@ -95,4 +96,3 @@ const LoginPage = () => {
 };
 
 export default LoginPage;
-
